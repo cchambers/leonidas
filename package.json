@@ -1,0 +1,20 @@
+{
+  "name": "leo",
+  "version": "1.0.0",
+  "description": "A node content management system.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Chambers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-generator": "^4.13.4",
+    "file": "^0.2.2",
+    "fs": "0.0.2",
+    "jquery": "^3.1.0",
+    "jsdom": "^9.4.1",
+    "socket.io": "^1.4.8"
+  }
+}
